@@ -23,7 +23,7 @@ I bring a practical problem-solving mindset, teamwork, communication, and a will
 
 **Saint Francis University**  
 Bachelor of Science in Cybersecurity  
-Expected Graduation: [Add expected month and year]
+Expected Graduation: May 2027
 
 **Atlantic Christian Academy**  
 High School Diploma
