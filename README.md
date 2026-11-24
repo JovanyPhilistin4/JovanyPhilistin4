@@ -1,135 +1,94 @@
 
-# 👋 Hi, I'm Jovany Philistin
+# Hello, I'm Jovany Philistin 👋
 
-### Cybersecurity Student | Aspiring IT Support & Digital Forensics Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovany-philistin-4574b43a8)
 
-📍 Lake Worth, Florida  
-📧 jovanyphilistin4@gmail.com  
-📞 (561) 774-0530
+## Brief Introduction
 
----
+I am a Cybersecurity student at Saint Francis University with a strong interest in digital forensics, cybersecurity operations, and IT support.
 
-## 🧑‍💻 About Me
+I have hands-on experience with programming, virtual machines, Linux environments, networking labs, and robotics. I enjoy learning new technologies, troubleshooting problems, and developing my cybersecurity skills through practical projects and coursework.
 
-I am a Cybersecurity student at Saint Francis University with hands-on experience in programming, virtual machines, Linux environments, networking labs, and robotics.
+## Objective
 
-I am interested in IT support, cybersecurity operations, and digital forensics. I enjoy learning how technology works, solving technical problems, and building my skills through hands-on projects.
+My goal is to build a career in cybersecurity, specifically in digital forensics, cybersecurity operations, or IT support.
 
-I bring a practical problem-solving mindset, teamwork, communication, and a willingness to learn.
+I am continuing to develop my technical skills through hands-on labs, coursework, and professional certifications. I am interested in learning how to investigate security incidents, analyze digital evidence, identify vulnerabilities, and help protect computer systems and networks.
 
----
+## Skills
 
-## 🎓 Education
+| Skill | Associated Project |
+|---|---|
+| Digital Forensics | [Digital Forensics Reports](Reports/) |
+| Linux Administration | [Kali Linux Labs](Projects/Linux/) |
+| Virtualization | [Virtual Machine Setup](Projects/Virtual-Machines/) |
+| Network Security | [pfSense Lab](Projects/pfSense/) |
+| Programming | [CuteBot Robotics](Projects/CuteBot/) |
+| OSINT | [OSINT Coursework](Reports/OSINT/) |
+| Computer Hardware | [Raspberry Pi Project](Projects/Raspberry-Pi/) |
 
-**Saint Francis University**  
-Bachelor of Science in Cybersecurity  
-Expected Graduation: May 2027
+## Tools
 
-**Atlantic Christian Academy**  
-High School Diploma
+### Digital Forensics
 
----
+| Tool | Website | Description |
+|---|---|---|
+| Autopsy | [Website](https://www.sleuthkit.org/autopsy/) | Digital forensics platform used to examine digital evidence, analyze files, and investigate activity on computers. |
+| TryHackMe | [Website](https://tryhackme.com/) | Cybersecurity training platform with interactive hands-on rooms and exercises. I used TryHackMe to practice digital forensics concepts and develop my investigation skills. |
 
-## 🛠️ Technical Skills
+### Network
 
-### Programming
-- Python
-- Java
-- C++
+[![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-blue?style=for-the-badge)](https://www.wireshark.org/)
+
+[![Shodan](https://img.shields.io/badge/Shodan-OSINT-orange?style=for-the-badge)](https://www.shodan.io/)
 
 ### Systems & Virtualization
-- Windows
-- Linux
-- Kali Linux
-- Virtual Machines
-- VMware
 
-### Cybersecurity & Networking
-- Networking Labs
-- Nmap
-- OSINT
-- Digital Forensics Coursework
-- pfSense
-- Docker
-- Apache
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Operating_System-blue?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
-### Hardware & Robotics
-- Raspberry Pi
-- CuteBot Robotics
-- Computer Hardware
+[![VMware](https://img.shields.io/badge/VMware-Virtualization-blue?style=for-the-badge)](https://www.vmware.com/)
 
----
+[![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## 💻 Technical Projects
+[![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge)](https://www.pfsense.org/)
 
-### CuteBot Robotics Programming
-- Programmed a CuteBot robot and tested its behavior using programmed instructions.
-- Applied programming logic, troubleshooting, and problem-solving to a hands-on robotics project.
+## Certifications
+
+- CompTIA A+ — Currently studying
+- CompTIA Network+ — Currently studying
+
+## Projects
+
+### Digital Forensics Portfolio
+
+- Digital forensics coursework and reports.
+- Hands-on learning with digital evidence and forensic tools.
+- Reports will be added as they are completed and organized.
 
 ### Virtual Machine Setup
-- Built and configured a virtual machine to create an isolated environment for technical practice.
-- Gained experience working with virtualized operating systems and system configuration.
 
-### Raspberry Pi – Personal Learning Project
-- Purchased a Raspberry Pi and am exploring its use for hands-on learning.
-- Interested in using it to practice computer hardware, operating systems, and networking.
+- Built and configured a virtual machine for technical practice.
+- Worked with virtualized operating systems and isolated environments.
 
----
+### CuteBot Robotics
 
-## 📜 Certifications & Professional Development
+- Programmed a CuteBot robot using programmed instructions.
+- Practiced programming logic, troubleshooting, and problem-solving.
 
-- **CompTIA A+** — Currently studying
-- **CompTIA Network+** — Currently studying
+### Raspberry Pi
 
----
+- Exploring the Raspberry Pi for hands-on learning with computer hardware, operating systems, and networking.
 
-## 💼 Work Experience
+## Reports
 
-### Parkhurst
-**Kitchen Assistant**  
-January 2026 – May 2026
+| Report | Description |
+|---|---|
+| [Digital Forensics Report 1](Reports/Report-1.pdf) | Digital forensics coursework report |
+| [Digital Forensics Report 2](Reports/Report-2.pdf) | Digital forensics coursework report |
+| [Digital Forensics Report 3](Reports/Report-3.pdf) | Digital forensics coursework report |
 
-- Provided support to the chef by completing tasks and preparing items as needed.
-- Washed dishes and helped keep the kitchen clean and organized.
+## Contact
 
-### Saint Vincent College – Steelers Training Company
-**Community Outreach Leader**  
-June 2024 – September 2024 | Latrobe, PA
+📧 Email: jovanyphilistin4@gmail.com
 
-- Helped organize and carry out community outreach programs supporting local initiatives.
-- Worked with team members and community partners to identify needs and support program goals.
-
-### VHisGlory Clothing Brand
-**Customer Support Lead**  
-June 2023 – September 2023 | Palm Beach, FL
-
-- Provided customer service and e-commerce support.
-- Assisted with online order placement and fulfillment.
-- Helped resolve order issues and supported customer, vendor, and partner communication.
-
----
-
-## 🏀 Leadership & Additional Experience
-
-- Saint Francis University men's basketball student-athlete.
-- Church youth group volunteer.
-- Strengths include teamwork, communication, troubleshooting, mathematics, and problem-solving.
-
----
-
-## 🎯 Career Interests
-
-- IT Support
-- Help Desk Technician
-- Cybersecurity Operations
-- Digital Forensics
-- Network Support
-- Security Analyst
-
----
-
-## 📫 Contact
-
-- **Email:** jovanyphilistin4@gmail.com
-- **Location:** Lake Worth, Florida
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovany-philistin-4574b43a8)
